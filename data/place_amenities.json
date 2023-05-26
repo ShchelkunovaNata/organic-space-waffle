@@ -1,0 +1,122 @@
+{
+    "adults_only": ["tolko-dlia-vzroslykh"],
+    "pool": [
+        "krytyi-bassein",
+        "otkrytyi-bassein",
+        "sezonnyi-otkrytyi-bassein",
+        "bassein",
+        "bassein-s-podogrevom",
+        "bar-u-basseina",
+        "otkrytyi-bassein-s-podogrevom",
+        "sezonnyi-krytyi-bassein",
+        "bassein-na-kryshe"
+    ],
+    "free_transfer": [
+        "besplatnyi-transfer",
+        "besplatnyi-transfer-ot-do-zhd-vokzala",
+        "besplatnyi-transfer-ot-do-aeroporta",
+        "besplatnyi-transfer-do-porta",
+        "besplatnyi-transfer-do-aeroporta"
+    ],
+    "children": [
+        "detskaia-igrovaia-ploshchadka",
+        "razmeshchenie-podkhodit-dlia-semei-detei",
+        "uslugi-niani-i-ukhod-za-detmi",
+        "detskie-krovatki-liulki",
+        "igrovaia-komnata",
+        "detskii-bassein",
+        "detskie-telekanaly",
+        "detskoe-meniu",
+        "detskii-klub",
+        "detskie-krovatki-liulki-za-dopolnitelnuiu-platu"
+    ],
+    "dzhakuzi": ["dzhakuzi"],
+    "wi_fi": [
+        "wi-fi",
+        "dostup-v-internet",
+        "besplatnyi-wi-fi",
+        "besplatnyi-dostup-v-internet",
+        "internet-v-nomere",
+        "wi-fi-v-otele"
+    ],
+    "availability": [
+        "udobstva-dlia-gostei-s-ogranichennymi-fizicheskimi-vozmozhnostiami",
+        "restoran-oborudovan-dlia-dostupa-gostei-na-invalidnykh-kreslakh",
+        "bezbarernyi-dostup",
+        "bar-oborudovan-dlia-dostupa-gostei-na-invalidnykh-kreslakh",
+        "tualety-s-poruchniami"
+    ],
+    "pets": [
+        "besplatnoe-razmeshchenie-s-domashnimi-zhivotnymi",
+        "razmeshchenie-s-domashnimi-zhivotnymi"
+    ],
+    "konditsioner": ["konditsioner"],
+    "beauty_and_health": [
+        "sauna",
+        "soliarii",
+        "spa-tsentr",
+        "salon-krasoty",
+        "massazh",
+        "parovaia-bania",
+        "bania",
+        "khammam",
+        "ozdorovitelnyi-klub",
+        "massazh-za-dopolnitelnuiu-platu"
+    ],
+    "non_smoking": [
+        "otel-dlia-nekuriashchikh",
+        "nomera-dlia-nekuriashchikh",
+        "kurenie-zapreshcheno-na-vsei-territorii"
+    ],
+    "smoking": [
+        "mesta-dlia-kureniia",
+        "nomera-dlia-kuriashchikh",
+        "kurenie-razresheno"
+    ],
+    "otoplenie": ["otoplenie"],
+    "parking": [
+        "parkovka",
+        "besplatnaia-parkovka-riadom-s-otelem",
+        "parkovka-po-zaprosu",
+        "parkovka-riadom-s-otelem",
+        "besplatnaia-obshchestvennaia-parkovka-poblizosti",
+        "besplatnaia-parkovka"
+    ],
+    "beach": ["chastnyi-pliazh", "riadom-s-pliazhem"],
+    "sport": [
+        "fitnes-tsentr",
+        "nastolnyi-tennis",
+        "ioga",
+        "daiving",
+        "prokat-velosipedov",
+        "katanie-na-velosipede",
+        "verkhovaia-ezda",
+        "plavanie-na-lodkakh",
+        "snorkeling",
+        "trenazhernyi-zal",
+        "darts",
+        "besplatnyi-prokat-velosipedov",
+        "tennisnyi-kort",
+        "badminton",
+        "pole-dlia-golfa",
+        "skvosh",
+        "vindserfing",
+        "pole-dlia-golfa-v-predelakh-3-km",
+        "parusnyi-sport",
+        "iakhting"
+    ],
+    "cleaning_clothes": ["prachechnaia", "khimchistka"],
+    "winter_sport": [
+        "pomeshchenie-dlia-khraneniia-lyzh",
+        "dostup-na-lyzhakh-k-oteliu",
+        "katanie-na-lyzhakh",
+        "lyzhnaia-shkola",
+        "katanie-na-lyzhakh-za-predelami-territorii-otelia",
+        "prodazha-gornolyzhnykh-abonementov",
+        "prokat-lyzhnoi-ekipirovki",
+        "transfer-do-gornolyzhnogo-sklona",
+        "snoubord",
+        "lyzhnyi-transfer",
+        "besplatnyi-transfer-do-gornolyzhnogo-sklona"
+    ]
+}
